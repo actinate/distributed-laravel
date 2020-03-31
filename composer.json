@@ -1,12 +1,12 @@
 {
-    "name": "optimus/distributed-laravel",
+    "name": "actinate/distributed-laravel",
     "autoload": {
         "psr-4": {
             "Optimus\\Api\\System\\": "src/"
         }
     },
     "require": {
-        "laravel/framework": "~5.1"
+        "laravel/framework": "*"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
